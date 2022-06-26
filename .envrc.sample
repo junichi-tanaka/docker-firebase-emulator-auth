@@ -1,0 +1,2 @@
+export GOOGLE_CLOUD_PROJECT=test
+export FIREBASE_AUTH_EMULATOR_HOST=localhost:9099
